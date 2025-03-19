@@ -1,0 +1,10 @@
+datasets==3.2.0
+accelerate==1.2.1
+peft==0.14.0
+trl==0.14.0
+bitsandbytes==0.45.1
+git+https://github.com/huggingface/transformers
+Pillow
+qwen_vl_utils
+torchvision
+python-dotenv
